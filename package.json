@@ -1,22 +1,22 @@
 {
-  "name": "OpenShift-Sample-App",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "name": "get-site-html",
+  "version": "0.0.1",
+  "description": "ZombieJS application using tabs",
   "keywords": [
-    "OpenShift",
     "Node.js",
     "application",
-    "openshift"
+    "Express.js",
+    "Zombie.js"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Anderson Madeira",
+    "email": "andersonmadeira [at] gmail [dot] com",
+    "url": "http://andersonmadeira.github.io/"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "https://github.com/andersonmadeira/get-site-html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/andersonmadeira/get-site-html"
   },
   "engines": {
     "node": ">= 0.6.0",
